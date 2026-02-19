@@ -1,0 +1,2 @@
+# IBM-Course--Space-X-Falcon-9-First-Stage-Landing-Prediction
+Machine learning pipeline to predict whether the first stage of the rocket lands successfully. The workflow includes data preprocessing, training and testing. Grid Search is applied to identify the optimal hyperparameters. The algorithms tested:  Logistic Regression, Support Vector Machines (SVM), Decision Tree Classifier, K-Nearest Neighbors (KNN)
