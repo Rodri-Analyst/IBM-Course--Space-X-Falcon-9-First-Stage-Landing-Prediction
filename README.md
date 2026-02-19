@@ -4,9 +4,9 @@ The workflow includes several key steps. First, data preprocessing is performed 
 Next, multiple machine learning models are trained, and Grid Search is applied to identify the optimal hyperparameters that maximize each algorithm’s performance. Using these best hyperparameter values, the models are evaluated to determine which one achieves the highest accuracy on the training data.
 The algorithms tested in this lab are:
 
-- 1.Logistic Regression
-- 2.Support Vector Machines (SVM)
-- 3.Decision Tree Classifier
-- 4.K-Nearest Neighbors (KNN)
+- Logistic Regression
+- Support Vector Machines (SVM)
+- Decision Tree Classifier
+- K-Nearest Neighbors (KNN)
 
 Finally, the performance of the selected model is assessed by generating a confusion matrix, which provides insight into prediction accuracy and classification errors.
